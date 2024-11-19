@@ -8,12 +8,15 @@ Para alcançar este objetivo, será desenvolvido um modelo preditivo que ajude a
 Base de dados: <https://www.kaggle.com/datasets/rabieelkharoua/predicting-hiring-decisions-in-recruitment-d>
 
 ## ⚙️ Passo-a-passo
-1. -
-2. -
-3. -
+1. Análise e compreensão dos dados
+2. Preparação/tratamento dos dados
+3. Modelagem
+5. Avaliação dos modelos e métricas
+
+⚠️ Para saber mais detalhes das etapas seguidas neste projeto, acesse o arquivo "RELATORIO".
 
 ## 💻 Tecnologias utilizadas
 ``Google Colaboratory`` | ``Python`` | ``Mysql Workbench`` 
 
-⚠️ Para saber mais detalhes das etapas seguidas neste projeto, acesse o arquivo "RELATORIO".
+Bibliotecas: ``Pandas`` | ``Numpy`` | ``Sklearn`` | ``XGBoost``
 
